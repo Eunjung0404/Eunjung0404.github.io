@@ -53,3 +53,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+minimal_mistakes_skin : "difault" # 전체적인 블로그의 색감을 정하는 값
+
+#Site Settings
+locale : "ko-KR" #블로그 주요언어 
+title : "개발 정리 메모장"
+title_spparator : "-"
+subtitle : "V-1.0" #화면 title 하단에 있는 소제목
+name: "Eunjung Cha"
+description: "공부한걸 정리합니다."
+url: "https://Eunjung0404.github.io" #현재의 블로그 url
+baseurl : #폴백(예기치 못한 오류)일때 연결되는 url
+reporitory: "https://github.com/Eunjung0404/Eunjung0404.github.io"
+teaser : # 폴백일때 보일 이미지
+logo : #화면에 보여지는 logo이미지
+masthead_title : "개발 정리 메모장"
